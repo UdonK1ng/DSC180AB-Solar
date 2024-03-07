@@ -12,6 +12,6 @@ to optimize cell production for longer durability.
 # Methods
 Image Processing:
 We are measuring the color change from black to yellow, where yellow is completely degraded. Here is a timelapse of the degredation process:
-
+https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/6b5e09c3-4ee6-4242-b52d-5a95d6bd2ad3
 # Results
 # Conclusion
