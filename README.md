@@ -1,5 +1,5 @@
 # Background
-  Perovskite cells are hailed as the next generation of solar cells that are more efficient than traditional and widely used silicon cells.  One drawback to this is they tend to degrade at a much faster rate than the current silicon cells when under direct sunlight. 
+  Perovskite cells are hailed as the next generation of solar cells that can potentially be more effective than traditional and widely used silicon cells.  One drawback to this is they tend to degrade at a much faster rate than the current silicon cells when under direct sunlight. 
   Dr. Fenning's lab employs an experimental method involving various samples of perovskite
 film using different synthesis conditions and testing them under accelerated conditions –
 intense sunlight and high temperatures – to track degradation speed of these films. The
@@ -8,6 +8,10 @@ clear regarding the synthesis conditions influencing degradation and how to desi
 experiments so we can learn which factors significantly impact film degradation and how
 to optimize cell production for longer durability.
 # Data Description
+  The data 
 # Methods
+Image Processing:
+We are measuring the color change from black to yellow, where yellow is completely degraded. Here is a timelapse of the degredation process:
+
 # Results
 # Conclusion
