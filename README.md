@@ -16,10 +16,14 @@ We are measuring the color change from black to yellow, where yellow is complete
 
 <video width="630" height="300" src="https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/1c720849-723c-4f16-bc06-93d2ee27b3bd"></video>
 
+Here is a flowchart depicting the entire process starting from the data all the way to the creation of the machine learning model. 
 ![Project Flow chart (3)](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/abefca97-76bc-4e5e-b4d8-1ff3031a20db)
 
+Machine Learning Pipeline: 
+Due to our limited dataset, we tested models that were generally used for smaller datasets which included: Ridge Regression, Lasso Regression, Elastic Net, Random Forest Regressor, Support Vector Regressor, and Catboost.  We also tested hyperparameters for every model except for Catboost.
 
 # Results
+To judge model performance, we calculated the RMSE for the x0 and the k parameters based on their actual values compared to what the model predicted the value would be. Catboost performed the best in our tests for both parameters. 
 # Future Work
   Future work involves adding more data to our database in order to make our machine learning models more accurate. We also want to figure out whether parameters x0 and k are independent or can a model be built that predicts both parameters. 
 # Acknowledgements
