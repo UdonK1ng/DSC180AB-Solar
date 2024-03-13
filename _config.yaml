@@ -1,9 +1,3 @@
-remote_theme              : "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin     : "default"
-name                      : "Jacob Kell"
+theme: jekyll-theme-slate
+title: Predictive Modeling for Perovskite Film Durability
 
-locale                    : "en-US"
-title                     : "Perovskite Solar cells"
-subtitle                  : "hi"
-layout                    : single
-classes                   : wide
