@@ -9,7 +9,7 @@ clear regarding the synthesis conditions influencing degradation and how to desi
 experiments so we can learn which factors significantly impact film degradation and how
 to optimize cell production for longer durability. Our project first created a pipeline that puts any new data daily into the graph database so it can be explored further, and another pipeline that performs the machine learning on the data from the graph database. 
 # Data Description
-  The data involves different chemical compositions, manufacturing steps, solutes, and solvents 
+  Our current data set currently contains 147 samples. Each sample includes different chemical compositions, manufacturing steps, solutes, and solvents. 
 # Methods
 Image Processing:
 We are measuring the color change from black to yellow, where yellow is completely degraded. Here is a timelapse of the degredation process:
@@ -19,7 +19,7 @@ We are measuring the color change from black to yellow, where yellow is complete
 
 # Results
 # Future Work
-  Future work involves adding more data to our database in order to make our machine learning models more accurate.
+  Future work involves adding more data to our database in order to make our machine learning models more accurate. We also want to figure out whether parameters x0 and k are independent or can a model be built that predicts both parameters. 
 # Acknowledgements
 Special thanks to Prof David Fenning and SOLEIL member Deniz Cakan for resources and guidance on our project!
 
