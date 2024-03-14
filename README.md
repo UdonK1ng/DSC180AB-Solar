@@ -19,6 +19,7 @@ Image Processing:
 
 <video width="630" height="300" src="https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/1c720849-723c-4f16-bc06-93d2ee27b3bd"></video>
 ![example_fit (1)](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/8da3cff0-27b5-4649-a468-e83600fa297a)
+![mse_distribution](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/95394fef-d858-45ef-afdf-49c76b0e976b)
 Graph Database Pipeline:
   Data is fetched daily from Synology NAS system and automatically updates the graph database. 
 
