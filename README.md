@@ -35,6 +35,7 @@ Image Processing:
 ![mse_distribution](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/95394fef-d858-45ef-afdf-49c76b0e976b)
 We analyze the color of the film and fit the degredation value on a logistic curve. This is known as our colormetrics pipeline. We are fitting for both x0 and k parameters where, the x0 parameter is the midpoint of the degredation curve and the k parameter is the rate of change of the curve.  Here is the sampled colormetrics graph:
 
+![example_cmet_graph](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/4ec45804-10f7-4d5d-a0dd-8fe53979a4ca)
 
 Graph Database Pipeline:
   Data is fetched daily from Synology NAS system and automatically updates the graph database. From the graph database, we use the package py2neo to work on data from the graph database in a jupiter notebook and tabularize the data, so we can build a model to fit the data.  
