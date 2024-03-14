@@ -21,7 +21,7 @@ Image Processing:
 ![example_fit (1)](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/8da3cff0-27b5-4649-a468-e83600fa297a)
 ![mse_distribution](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/95394fef-d858-45ef-afdf-49c76b0e976b)
 Graph Database Pipeline:
-  Data is fetched daily from Synology NAS system and automatically updates the graph database. 
+  Data is fetched daily from Synology NAS system and automatically updates the graph database. From the graph database, we use the package py2neo to work on data from the graph database in a jupiter notebook and tabularize the data, so we can build a model to fit the data.  
 
 
 Machine Learning Pipeline: 
@@ -29,7 +29,7 @@ Machine Learning Pipeline:
   Here is a flowchart depicting the entire process starting from the data all the way to the creation of the machine learning model. 
 ![Project Flow chart (3)](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/abefca97-76bc-4e5e-b4d8-1ff3031a20db)
 # <span style="color: #004a99;">Results</span>
-  To judge model performance, we calculated the RMSE for the x0 and the k parameters based on their actual values compared to what the model predicted the value would be. Here are our graphs showing the RMSE for different models as sample size increases. 
+  To judge model performance, we calculated the RMSE for the x0 and the k parameters based on their actual values compared to what the model predicted the value would be. The x0 parameter is the midpoint of the degredation curve and the k parameter is the rate of change of the curve. Here are our graphs showing the RMSE for different models as sample size increases. 
 
 ![k_sample_performance](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/0bc262dc-775f-4310-be26-23d807df0711)
 ![x0_sample_performance](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/9d844223-a281-4b42-9b3d-6646c14e01dd)
@@ -37,7 +37,7 @@ Catboost performed the best in our tests for both parameters. Since catboost per
 ![combined_feature_importance](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/f8838c86-2bd8-46c9-94bf-2f837c5cad36)
 
 # <span style="color: #004a99;">Future Work</span>
-  Future work involves adding more data to our database in order to make our machine learning models more accurate. We also want to figure out whether parameters x0 and k are independent or can a model be built that predicts both parameters. Eventually, it may be possible to automate the colormetric pipeline for every new batch that comes in. 
+  Future work involves adding more data to our database in order to make our machine learning models more accurate. We also want to figure out whether parameters x0 and k are independent or can a model be built that predicts both parameters. Eventually, it may be possible to automate the colormetric pipeline for every new batch that comes in, and even the entire process eventually so putting data into the synology data base will automatically tell you the best model and which features are important!
 
   
 # <span style="color: #004a99;">Acknolwedgements</span>
