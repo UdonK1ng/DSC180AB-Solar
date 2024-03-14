@@ -31,8 +31,6 @@ Image Processing:
 
 ![TimelapseofCellDegredation-ezgif com-video-to-gif-converter](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/15047423-51cc-44fa-8b07-94b8548a2eba)
 
-<iframe width="560" height="315" src="https://youtu.be/Mi9M908KpYY" frameborder="0" allowfullscreen></iframe>
-![example_fit (1)](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/8da3cff0-27b5-4649-a468-e83600fa297a)
 
 ![mse_distribution](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/95394fef-d858-45ef-afdf-49c76b0e976b)
 Graph Database Pipeline:
