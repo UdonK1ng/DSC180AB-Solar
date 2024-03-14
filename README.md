@@ -1,5 +1,5 @@
 
-# <span style="color: #004a99;">Background </span>
+# <span style="color: #004a99;">Background</span>
   Perovskite cells are hailed as the next generation of solar cells that can potentially be more effective than traditional and widely used silicon cells.  One drawback to this is they tend to degrade at a much faster rate than the current silicon cells when under direct sunlight. 
   Dr. Fenning's lab employs an experimental method involving various samples of perovskite
 film using different synthesis conditions and testing them under accelerated conditions –
