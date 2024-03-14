@@ -46,7 +46,7 @@ Machine Learning Pipeline:
   Here is a flowchart depicting the entire process starting from the data all the way to the creation of the machine learning model. 
 ![Project Flow chart (3)](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/abefca97-76bc-4e5e-b4d8-1ff3031a20db)
 # <span style="color: #004a99;">Results</span>
-  To judge model performance, we calculated the RMSE for the x0 and the k parameters based on their actual values compared to what the model predicted the value would be. Here are our graphs showing the RMSE for different models as sample size increases.  The same color bands show the range of values that come from testing the model 100 times. 
+  To judge model performance, we calculated the RMSE(Root Mean Squared Error). for the x0 and the k parameters based on their actual values compared to what the model predicted the value would be. Here are our graphs showing the RMSE for different models as sample size increases.  The same color bands show the range of values that come from testing the model 100 times, while the solid line is the average RMSE from all the tests. 
 
 ![x0_sample_performance (1)](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/a26fb123-43b5-4115-83e6-1e0dee7d18d7)
 
