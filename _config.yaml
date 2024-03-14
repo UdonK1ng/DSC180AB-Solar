@@ -2,5 +2,6 @@ remote_theme: pages-themes/slate@v0.2.0
 
 title: Predictive Modeling for Perovskite Film Durability
 description: Jacob Kell, Chi Wong, Aryan Johari, Lucas Papaioannou
+Mentor: David Fenning
 plugins:
 - jekyll-remote-theme
