@@ -27,7 +27,7 @@ Here is an example of the colormetrics node and its properties in the graph data
 
 # <span style="color: #004a99;">Methods</span>
 Image Processing:
-  We are measuring the color change from black to yellow, where yellow is completely degraded. Images were taken every couple of minutes over the course of the experiment. Here is a timelapse of the degredation process:
+  We are measuring the color change from black to yellow, where yellow is completely degraded. Images were taken every couple of minutes over the course of the experiment, where films are placed under intense sunlight and temperature conditions. Here is a timelapse of the degredation process:
 
 ![TimelapseofCellDegredation-ezgif com-video-to-gif-converter](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/15047423-51cc-44fa-8b07-94b8548a2eba)
 
