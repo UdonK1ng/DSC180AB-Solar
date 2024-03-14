@@ -10,7 +10,9 @@ to optimize cell production for longer durability. If we can figure out what fac
 
 
 # <span style="color: #004a99;">Data Description</span>
-  Our current data set currently contains 147 samples. Each sample includes different characteristics from the experiment like chemical compositions, manufacturing steps, solutes, and solvents. The data is extracted from the graph database into a table so we can do analysis on the data and find which characteristics are important.  Here is an example of one sample from our graph database.  
+  Our current data set currently contains 147 samples. Each sample includes different characteristics from the experiment like chemical compositions, manufacturing steps, solutes, and solvents. The data is extracted from the graph database into a table so we can do analysis on the data and find which characteristics are important.  
+  
+Here is an example of one sample from our graph database.  
 ![pasted image 0](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/f417559e-e01c-4b51-a13a-c5b6d03495dc)
 
 
