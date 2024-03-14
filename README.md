@@ -31,8 +31,9 @@ Machine Learning Pipeline:
 # <span style="color: #004a99;">Results</span>
   To judge model performance, we calculated the RMSE for the x0 and the k parameters based on their actual values compared to what the model predicted the value would be. Catboost performed the best in our tests for both parameters. 
 
+![k_sample_performance](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/0bc262dc-775f-4310-be26-23d807df0711)
+![x0_sample_performance](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/9d844223-a281-4b42-9b3d-6646c14e01dd)
 ![combined_feature_importance](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/f8838c86-2bd8-46c9-94bf-2f837c5cad36)
-
 # <span style="color: #004a99;">Future Work</span>
   Future work involves adding more data to our database in order to make our machine learning models more accurate. We also want to figure out whether parameters x0 and k are independent or can a model be built that predicts both parameters. 
 
