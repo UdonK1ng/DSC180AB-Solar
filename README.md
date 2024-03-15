@@ -49,7 +49,7 @@ Machine Learning Pipeline:
   Due to our limited dataset, we tested models that were generally used for smaller datasets which included: Ridge Regression, Lasso Regression, Elastic Net, Random Forest Regressor, Support Vector Regressor, and Catboost.  We also tested hyperparameters for every model except for Catboost.
   Here is a flowchart depicting the entire process starting from the data all the way to the creation of the machine learning model.</span> 
 ![Project Flow chart (3)](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/abefca97-76bc-4e5e-b4d8-1ff3031a20db)
-</span>
+
 # <span style="color: #004a99;">Results</span>
 <span style="font-size: larger;">
   To judge model performance, we first did an 80/20 train test split on the data, which is essentially where the model learns patterns based on the 80% of the data and then predicts values on our logistic curve for the other 20%.  We used cross validation to split the data into 80/20 multiple times depending on the number of folds.  We also calculated the RMSE(Root Mean Squared Error) for the x0 and the k parameters which is how much off the actual values are compared to what the model predicted the value would be. Here are our graphs showing the RMSE for different models as sample size increases.  The same color bands show the 95% confidence interval that comes from testing the model 100 times, while the solid line is the average RMSE from all the tests. 
@@ -65,7 +65,7 @@ Machine Learning Pipeline:
 
 
 
-</span>
+
 # <span style="color: #004a99;">Conclusion</span>
 <span style="font-size: larger;">From the figures above, we can see that our models naturally performed better as more samples were added to the graph database. Catboost appeared to have the lowest RMSE across all sample levels and both x0 and k parameters. 
   Future work involves adding more data to our database in order to make our machine learning models more accurate as it appears like as sample size increases our RMSE goes down. We also want to figure out whether parameters x0 and k are independent or can a model be built that predicts both parameters, as there seems to be a negative relationship between x0 and k.</span>
