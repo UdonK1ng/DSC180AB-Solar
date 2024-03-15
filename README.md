@@ -73,7 +73,7 @@ Machine Learning Pipeline:
 ![x0_vs_k](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/1e7b7633-0838-48ba-bd0e-ea9bfdbbf568)
 
   
-# <span style="color: #004a99;">Acknolwedgements</span>
+# <span style="color: #004a99;">Acknowledgements</span>
 <span style="font-size: larger;">Special thanks to Prof David Fenning and SOLEIL member Deniz Cakan for resources and guidance on our project!</span>
 
 # <span style="color: #004a99;">Links</span>
