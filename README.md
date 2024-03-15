@@ -37,7 +37,8 @@ Here is an example of one sample from our graph database:</span>
 
 ![example_cmet_graph](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/4ec45804-10f7-4d5d-a0dd-8fe53979a4ca)
 
-Here is the MSE distribution for each fitted curve compared to the actual curve:
+<span style="font-size: larger;">Here is the MSE distribution for each fitted curve compared to the actual curve:</span>
+
 ![mse_distribution](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/95394fef-d858-45ef-afdf-49c76b0e976b)
 <span style="font-size: larger;">
 Graph Database Pipeline:
