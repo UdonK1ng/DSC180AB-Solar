@@ -1,13 +1,13 @@
 # <span style="color: #004a99;">Background</span>
-  Perovskite cells can potentially be the next generation of solar cells that have potential to be more effective than traditional and widely used silicon cells.  One drawback to this is they tend to degrade at a much faster rate than the current silicon cells when under direct sunlight. 
+<span style="font-size: larger;">Perovskite cells can potentially be the next generation of solar cells that have potential to be more effective than traditional and widely used silicon cells.  One drawback to this is they tend to degrade at a much faster rate than the current silicon cells when under direct sunlight. 
   Dr. Fenning's lab employs an experimental method involving various samples of perovskite
 film using different synthesis conditions and testing them under accelerated conditions –
 intense sunlight and high temperatures – to track degradation speed of these films. The
 challenge is that these experiments can last for weeks to months before conclusions are
 clear. A potential solution is to train a machine-learning model on past
 experiments so we can learn which factors significantly impact film degradation and how
-to optimize cell production for longer durability. If we can figure out what factors lead to longer durability, we can allow Dr. Fenning's lab to create a better perovskite solar cell which can potentially spread to widespread commercial use! Our project first created a pipeline that puts any new data daily into the graph database so it can be explored further, and another pipeline that performs the machine learning on the data from the graph database. 
-
+to optimize cell production for longer durability. If we can figure out what factors lead to longer durability, we can allow Dr. Fenning's lab to create a better perovskite solar cell which can potentially spread to widespread commercial use! Our project first created a pipeline that puts any new data daily into the graph database so it can be explored further, and another pipeline that performs the machine learning on the data from the graph database. </span>
+ 
 
 # <span style="color: #004a99;">Data Description</span>
   Our current data set currently contains 147 samples. Each sample includes different characteristics from the experiment like chemical compositions, manufacturing steps, solutes, and solvents. The data is extracted from a neo4j graph database into a table so we can do analysis on the data and find which characteristics are important.  
