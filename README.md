@@ -77,5 +77,5 @@ Special thanks to Prof David Fenning and SOLEIL member Deniz Cakan for resources
 
 [GitHub Repository](https://github.com/ajohari114/dsc180-solar2.git)
 
-
+[Report](https://github.com/omicron3808/artifact-directory/blob/main/report.pdf)
 
