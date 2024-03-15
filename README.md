@@ -68,7 +68,8 @@ Machine Learning Pipeline:
 </span>
 # <span style="color: #004a99;">Conclusion</span>
 <span style="font-size: larger;">From the figures above, we can see that our models naturally performed better as more samples were added to the graph database. Catboost appeared to have the lowest RMSE across all sample levels and both x0 and k parameters. 
-  Future work involves adding more data to our database in order to make our machine learning models more accurate as it appears like as sample size increases our RMSE goes down. We also want to figure out whether parameters x0 and k are independent or can a model be built that predicts both parameters, as there seems to be a negative relationship between x0 and k. 
+  Future work involves adding more data to our database in order to make our machine learning models more accurate as it appears like as sample size increases our RMSE goes down. We also want to figure out whether parameters x0 and k are independent or can a model be built that predicts both parameters, as there seems to be a negative relationship between x0 and k.</span>
+  
   <span style="font-size: larger;">Here are some density graphs that depict the R^2 density for predicting k and x0 individually:</span>
   
 ![r2_distribution_x0](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/b9cd71b8-d542-4b62-aa4c-6931d76d385b)
@@ -79,7 +80,7 @@ Machine Learning Pipeline:
   
 ![x0_vs_k](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/1e7b7633-0838-48ba-bd0e-ea9bfdbbf568)  
 
-  Eventually, it may be possible to automate the colormetric pipeline for every new batch that comes in, and even the entire process eventually so putting data into the synology data base will automatically tell you the best model and which features are important!  Another area for future work involves segmenting the data and training on samples that correspond to high or low rates of degredation. This could improve model performance by making the model cater towards their respective ranges of degredation. Another </span>
+  <span style="font-size: larger;">Eventually, it may be possible to automate the colormetric pipeline for every new batch that comes in, and even the entire process eventually so putting data into the synology data base will automatically tell you the best model and which features are important!  Another area for future work involves segmenting the data and training on samples that correspond to high or low rates of degredation. This could improve model performance by making the model cater towards their respective ranges of degredation. Another option is using the degredation of images as a feature, which could help convolutional neural networks extract more information out of the images. This would allow us to find unseen correlations between degredation rates and creation of films. </span>
   
 
 # <span style="color: #004a99;">Acknowledgements</span>
