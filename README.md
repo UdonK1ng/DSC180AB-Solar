@@ -11,16 +11,18 @@ to optimize cell production for longer durability. If we can figure out what fac
 
 # <span style="color: #004a99;">Data Description</span>
 <span style="font-size: larger;">
-  Our current data set currently contains 147 samples. Each sample includes different characteristics from the experiment like chemical compositions, manufacturing steps, solutes, and solvents. The data is extracted from a neo4j graph database into a table so we can do analysis on the data and find which characteristics are important. 
+  Our current data set currently contains 147 samples. Each sample includes different characteristics from the experiment like chemical compositions, manufacturing steps, solutes, and solvents. The data is extracted from a neo4j graph database into a table so we can do analysis on the data and find which characteristics are important. </span>
   
-
-Here is an example of the colormetrics node and its properties in the graph database:
+<span style="font-size: larger;">
+Here is an example of the colormetrics node and its properties in the graph database:</span>
 ![pasted image 0 (2)](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/9fa5549f-6419-4dc9-9582-35b792f3efb9)
 
-Here is an example of the chemical node and its properties in the graph database:
+<span style="font-size: larger;">
+Here is an example of the chemical node and its properties in the graph database:</span>
 ![pasted image 0](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/f417559e-e01c-4b51-a13a-c5b6d03495dc)
 
-Here is an example of one sample from our graph database:
+<span style="font-size: larger;">
+Here is an example of one sample from our graph database:</span>
 ![pasted image 0 (1)](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/073ef04a-34ed-4137-be0b-0addd3355dbe)
 </span>
 # <span style="color: #004a99;">Methods</span>
