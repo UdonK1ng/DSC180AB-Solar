@@ -69,6 +69,7 @@ Machine Learning Pipeline:
   
 ![r2_distribution_x0](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/b9cd71b8-d542-4b62-aa4c-6931d76d385b)
 ![r2_distribution_k](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/9f09d16f-dff3-43ca-8deb-0c7ea6925a3b)
+![x0_vs_k](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/1e7b7633-0838-48ba-bd0e-ea9bfdbbf568)
 
   
 # <span style="color: #004a99;">Acknolwedgements</span>
