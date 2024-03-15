@@ -71,9 +71,11 @@ Catboost performed the best in our tests for both parameters. Since catboost per
 # <span style="color: #004a99;">Acknolwedgements</span>
 Special thanks to Prof David Fenning and SOLEIL member Deniz Cakan for resources and guidance on our project!
 
-[GitHub Repository](https://github.com/ajohari114/dsc180-solar2.git)
+
 
 # <span style="color: #004a99;">Links</span>
+
+[GitHub Repository](https://github.com/ajohari114/dsc180-solar2.git)
 
 
 
