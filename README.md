@@ -66,7 +66,7 @@ Machine Learning Pipeline:
 </span>
 # <span style="color: #004a99;">Conclusion</span>
 <span style="font-size: larger;">From the figures above, we can see that our models naturally performed better as more samples were added to the graph database. Catboost appeared to have the lowest RMSE across all sample levels and both x0 and k parameters. 
-  Future work involves adding more data to our database in order to make our machine learning models more accurate. We also want to figure out whether parameters x0 and k are independent or can a model be built that predicts both parameters, as there seems to be a negative relationship between x0 and k. Eventually, it may be possible to automate the colormetric pipeline for every new batch that comes in, and even the entire process eventually so putting data into the synology data base will automatically tell you the best model and which features are important</span>
+  Future work involves adding more data to our database in order to make our machine learning models more accurate. We also want to figure out whether parameters x0 and k are independent or can a model be built that predicts both parameters, as there seems to be a negative relationship between x0 and k. Eventually, it may be possible to automate the colormetric pipeline for every new batch that comes in, and even the entire process eventually so putting data into the synology data base will automatically tell you the best model and which features are important!</span>
   
 ![r2_distribution_x0](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/b9cd71b8-d542-4b62-aa4c-6931d76d385b)
 ![r2_distribution_k](https://github.com/UdonK1ng/DSC180AB-Solar/assets/97561013/9f09d16f-dff3-43ca-8deb-0c7ea6925a3b)
